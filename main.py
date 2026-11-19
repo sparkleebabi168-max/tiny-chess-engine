@@ -1,3 +1,4 @@
+"""Tiny Chess 4KB Engine for Make.fun tiny-chess-01 by sparkleebabi168-max"""
 import os,sys,json,urllib.request
 P,N,B,R,Q,K=1,2,3,4,5,6
 V=[0,100,310,320,500,900,20000]
