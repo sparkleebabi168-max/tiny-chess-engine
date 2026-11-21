@@ -1,1 +1,95 @@
-import lzma,base64;exec(lzma.decompress(base64.b85decode('{Wp48S^xk9=GL@E0stWa8~^|S5YJf5;3xVFQ(XWwn@VT6Qap3*G=lC~?zadVUt<anR(LBq>F>28AIviJQuej|LF+8I8iQKkhbr7b(w2Bsc>!edD8ovBnkRg}sLIC|tkh+g38fv|NqTn+VOte%SV#)GHjr#ym_G`b!FJ{W(P41$$**U?s{1@k!eBHhNE2QkC=5zir+o7iL(yezm@svu&rh0)EU;PO21ZZO#c10Yc2Kr$K!pBNu7?Hy7uaU3Fvu7i$`+}pVozgkV}k@n*1)zj`5iXSrO}9WM$Dy%z@BPI@k}+d1Mq{aOvl|Sft=#S4#b76yx*R~zf$(_agNcTeQJ;4%U5J^v+}gtZNZ^*|Kf-be(#u`$A84%6sQyvR_8i@DIoJM@$FWY_EE(xxfS!KHbaH?WHaM;hfmoYU9|@oj(r093%r|4?rFtPLqqD?BTDq>WG$0GCF(@P$IWv8dl+mD?JS6FA$d4BR2*V~c`qm?_`1UW-jG<22$-aR9;Iy3!9KOF<QCbVp?p##(;+k)A(y%@czO*J#Xm1mDL~npWaBFer~GW&;ryyiFvG%OmMNTWZVC{|C`JeM4?d?AmPU^&;F``;?fZ;p>>BL&n!H7lfe|Z7%hGnFzlN`)!7tsw?BubA(jN8@tkN41#`eUCkU}o_o2Gx*a0~<N*M;SlBhdIY2vG&OQ<<espvMw57NCGt-CW5^z%}B6WGR`(?HWzmeav2Y!cNvWVoYpTQGZNN`O{zAIVw8=;Awyq0@)e1Y_`pcD6RP?>Eai281iiP(rGSbd)JL#hXR#q&FvuXE%2OSb-&F^cg=zj8!6vPQPvz^GW}_JX~q8pdm{^A0GX@9Au{IXM#kJfcY6;w77(6r|2<E7d32%(3E@8+3Bahv9y&D^a3bX`T4Ogp>p*bX<^{@GKQd`9C%rI$DPt7zMNj`BD70%rSc5j3)BW6M=o&gv-~9WOxtCpYr)T0d2ImKQ6ix8=#r&`#vSA~YOZbLcrO(_Rf;n%4At>I*14Y_NN4of}Q5IPFjOsncRJHfX@3q1tN6DS@S2w`?%qUU+eJ}38yCjRQ&DZv!eDz7&om*LD>P?DSd^SZ)e3qi%xXQAZSm|1TU&WJ`(;4L_UrSc<VJ%V(jzH6MXZWY!O_~g>|M5c;$<shE(rP(3%<Blk>JGRjT^Sy(_rRt7CFI9kZ*3_*jf?JJnID@|w@lGg=3;z5I}m)tj6KxLm`jvp50&czLPa8HXzIR6d}O*qkGcvNeo+*}T$@D5cx`gQ2(Ms-pyR9LGI}nyY>i{A|2XTzSR(q|H{HPE%EF|*l*;n9D|QvgfrjoUx$+J<y)#ZT5rrKv2wn<TPy@Rsxl9QjgoS(E8}1-ED&1tzJ|a*={B;er=@CW{vgNKDF|a{H95_+pz=Jv1ahZ6gvPOh~b3*X2l6atMZD4lr{<!gwL<7^*()KUasMF|TPBN-@Ta?FbmwlxZVRg8%j(0UZGcz>S7Pae-6Zw;u<sTa&l6kkzOOclymmW7b`g$p7&}DfDd@0TALxD$mU^xDB@)J|X4m`Rs{exLCOqk}OzF@8bD+!zKKz0zb(UwG5;}-ym9Oi7j+$b2k^Q;A=ArIoAQoU|$%+w<4?f>Wmu_{`WKR+hfJM?U#{kaZgD*&_k+nK--ZccBnQ(t4qZMpFJ2+k{md}(ukse3_jwRiJNxZn>H&h(Au!+rg-^zE9sL<+FFH!>nQV12nWurE6N_M0dh^feAg)J1<cjmJ4;5Fp{Yu_}7dKJqTS+E8)-)c)~*2Xo6?ntG2@Rtk=msOR;*_w$q@D)b3_O*@H!!+rV3I2jxtDg=PrvOEl8O-$WVDHOum3SI+l6B=|T4iBDHyniH%1XIx!+~6Q&aCvKRD0z5Fd=rytP%A2^l5hHw;PTtyKqFRx+(fpBWZ_ZKw$eU}<mv}nkozNAH1!ARl|TZR4J{)z@*@>CBJX#T#STuh>y#RAp|*-3T*Ny-5`&8hrA(4XoyQ~&GzP_qJ`zP)lWaQghfF$$%^qV#-LO5*XtE2goHqQF2IsRn>e6nU)GNT6iK6kdW5;QsWJU-!rEkRHD!KG!v*-xiQPa!SPw|tb?_>Zrt`y0_WGAkv$lt83zIT-zpB02H`WIJfaE7yes7arSHr4BgBkKZ(P;N=8Z65(7x`cr0xC7YJhJ^9(u-+?}#U*nx@@KkoDjB5mvX;ZzzO1lct^0Y;KjKV={xFKyM6M@ZrAFicGhtT{17GeNP6*l%*oKF6_eBw&nbe2+E#Ke0VF{0$xP#&uyS9f17i6N$Dlgo&AelKZ*;uewydYZj?f{HEPO>=l8-2GI%Z2xB@PV9-P<2uCO9FmvriVe5&JN?8<!9fwi=9-DJrb?wR<3N&NdJlo&0H2w#1?m7vk6+1nWv+|(6=Ug!H3Zn8>aZEcX{9=h7wu`4WRXua0Rd3C|uo8P#|~ZR9u-7tjC<Jcw6Ys7subf166@xn5Mhz_Cj5E7T2n{5>ttCF){EMIsOBeQO67^`lPW01OHcFBxa`y#}S`VHbuJD7vhbAgbO?9`swye(|!>Q2+0Q4C%8MtUPX_Yow2WnnRW%*gx7A$;~W?GMpu)-93Jey13K!;9yB<)4d&kc5cWO)+Zdm^(Hoi~+HFYH!Y7fXip|tU2;_hADKp&y4_aL;?jmESmm`OotGECj9L|r^2{Or?Rsch^ktt9y$jKPay46AiA*LPub1|N&+j5@KTo@y)xT|de5vyJBJJ0+YF5TQ&gk^3O*`P;MweFrz7lguMudi_gFYo+NYy}idWyIGoi6jkt9QlvWe+VgagO$s@Oh!Fp^BrRn9*yZCrKMvS%H%P<1ro^CO?&o`N3WdYdnN2a9=tWwI7}ULsXM2NP%^sVB<ja%1b@8+x8Bwqqp;vmK=h8HozVBx*$o5xFImu0m>0iluKDZ$l~Mu?=Z?{Cpm1SAp@yUi0p0>K`%kDDhE6;gXt>CG2+XY1G?3P^hTGdDxBtqgm?9%vu+tVZk{SYNFUWgH)qou@jl5~)w{67~%3GaFqFuPpa4w)-I?5qXa(C0e*k}K>!J+qSs4gBm+!c#Fj6h1V1Ta|;)i&^7%`$eV6V(f7c$O4OS~1)1zqZ~|3J+~v$)K?%7HvT&$J;@vjuQPNK@QWzrh||3b@-(RH->Y@NzJMCf-V_I?)^=zpZ1x+w^Em3*UavIsp7){_m47J<J=yIcGE!}``sypwnTs2hlYv^3<w@NL^I}7m&*477sx<98m}{;>M8!!(-R6Odz$s-vZ6ahHOs=*&OkjyB@)@8Q8UxKF59#r1c8;fLs(?&JtRDbdk9f^(l1mrslEwQ6}*0YaxjL+uVX@LXz@xlyU_K2Uo)|#IFPh1(gOEy-8CmjalA8c61u&}x9D&*)zW3u(mD6{$c3LB@%=rYgO$|cPwv1DlICT*Z*E<zDB~;YJoiaGJ2Jpa5b1umVC8c1Ro<rJ4U$5BSnG%-pvaXHaUVYE!0b6A2e%TBKHv`QMe(`X%wgcUFDr?C7DFFmSc-pgNhi9W1BW3H^1)92&{Dd)dt-c($<c0b7{#ieQ^7Tiia>X89*SZp>7LD~-NEnOIn(7NV{-<uTYmQoRcZo9s8C(KHuF2_*gJ=5S*gJu`B#?+pu4aq12P}Eq;)<Y1sdbUqG&n?hJxJ673RW-Mt}`YG;a7ZM&K9U#NblBzZttz4y)GW8<0`<YHE=eM8N@WDaHgLeIIeUkp^~|PE4;UP77PJ+al{!sD+7+ID96NHD9H0)IC~fLZT=WU|E0)wv-vF(U367Yw6d>xxb2WC{^{g;xK<{OWC`T0dp^rpeM!UcE5so-CYTF&V4UnNSE`bG9&A?c#PP!wJ{#^Xeb_a-h|7A9MH~}UGp%D#f&Wy65XhsL=hcKY|+kVuFp9I1X6aM5B-Pisw5e9ws_#H9N<9<)5cE&y7&qT!53T$CpRZkH5>zBpaE<^_SMi=ZC!V$s4>q-FuW9*9#`673v4}Jjabt;b3)U05`^XaE3Yb1)kB`anCYQ8wDC+zrHCI$<J=^FzNsgj-cBN=gJ5utjbKfldWlZYjDI95;idopgqx>(hv=x{00Hk9`%eG>lKOUDvBYQl0ssI200dcD'))
+import os, sys, json, urllib.request as U
+
+ENV = os.environ.get("MAKEFUN_ENV_URL", "http://127.0.0.1:8080").rstrip("/")
+V = {"p": 100, "n": 320, "b": 330, "r": 500, "q": 900, "k": 20000}
+F = "abcdefgh"
+CTR = {s: 20 for s in ("d4", "e4", "d5", "e5")} | {s: 10 for s in ("c4", "f4", "c5", "f5")}
+K_DIRS = ((1, 2), (1, -2), (-1, 2), (-1, -2), (2, 1), (2, -1), (-2, 1), (-2, -1))
+
+def post(path, body):
+    req = U.Request(ENV + path, data=json.dumps(body).encode(), headers={"content-type": "application/json"})
+    with U.urlopen(req) as res: return json.load(res)
+
+def board_of(fen):
+    b = {}
+    for i, r in enumerate(fen.split()[0].split("/")):
+        f = 0
+        for c in r:
+            if c.isdigit(): f += int(c)
+            else: b[F[f] + str(8 - i)] = c; f += 1
+    return b
+
+find_king = lambda b, w: next((s for s, p in b.items() if p == ("K" if w else "k")), None)
+
+def is_attacked(b, sq, by_white):
+    if not sq: return False
+    fi, r = F.index(sq[0]), int(sq[1])
+    pawn, knight, king = ("P", "N", "K") if by_white else ("p", "n", "k")
+    pr = r - 1 if by_white else r + 1
+    if 1 <= pr <= 8 and any(0 <= fi + df < 8 and b.get(F[fi + df] + str(pr)) == pawn for df in (-1, 1)):
+        return True
+    if any(0 <= fi + d[0] < 8 and 1 <= r + d[1] <= 8 and b.get(F[fi + d[0]] + str(r + d[1])) == knight for d in K_DIRS):
+        return True
+    rq, bq = (("R", "Q") if by_white else ("r", "q")), (("B", "Q") if by_white else ("b", "q"))
+    for dirs, pcs in ((((1, 0), (-1, 0), (0, 1), (0, -1)), rq), (((1, 1), (1, -1), (-1, 1), (-1, -1)), bq)):
+        for df, dr in dirs:
+            for s in range(1, 8):
+                nf, nr = fi + df * s, r + dr * s
+                if not (0 <= nf < 8 and 1 <= nr <= 8): break
+                pc = b.get(F[nf] + str(nr))
+                if pc:
+                    if (s == 1 and pc == king) or pc in pcs: return True
+                    break
+    return False
+
+def max_opp_capture(b, us_white):
+    them, max_g = not us_white, 0
+    for sq, pc in b.items():
+        if (pc.isupper() if us_white else pc.islower()):
+            val = V.get(pc.lower(), 0)
+            if val < 20000 and is_attacked(b, sq, them):
+                max_g = max(max_g, val if not is_attacked(b, sq, us_white) else max(0, val - 100))
+    return max_g
+
+def evaluate_move(b, us_white, mv):
+    fr, to, promo = mv[:2], mv[2:4], mv[4:5]
+    mover, victim = b[fr], b.get(to)
+    gain = V.get(victim.lower(), 0) if victim else (100 if mover.lower() == "p" and fr[0] != to[0] else 0)
+    if promo: gain += V.get(promo.lower(), 900) - 100
+    nb = dict(b)
+    nb[to] = promo.upper() if (mover.isupper() and promo) else (promo.lower() if promo else mover)
+    del nb[fr]
+    if mover.lower() == "p" and fr[0] != to[0] and not victim: nb.pop(to[0] + fr[1], None)
+    if is_attacked(nb, find_king(nb, us_white), not us_white): return -999999
+    score = (gain - max_opp_capture(nb, us_white)) * 10 + CTR.get(to, 0)
+    ml = mover.lower()
+    if ml == "k" and abs(F.index(fr[0]) - F.index(to[0])) == 2: score += 50
+    if ml in "nb" and fr[1] in "18": score += 20
+    if ml == "p":
+        adv = int(to[1]) - int(fr[1]) if us_white else int(fr[1]) - int(to[1])
+        score += adv * 4
+    return score
+
+def choose(fen, legal):
+    if not legal: return ""
+    if len(legal) == 1: return legal[0]
+    try:
+        white, b = (fen.split()[1] == "w"), board_of(fen)
+        return max(legal, key=lambda mv: evaluate_move(b, white, mv))
+    except Exception: return legal[0]
+
+def play_all():
+    while True:
+        try: g = post("/game", {})
+        except Exception: break
+        if g.get("status") == "done": break
+        while g.get("status") == "your_move":
+            legal = g.get("legal_moves") or []
+            mv = choose(g.get("fen", ""), legal) if legal else ""
+            if not mv: break
+            try: g = post("/move", {"game": g["game"], "move": mv})
+            except Exception: break
+        print(f"game {g.get('game')}: {g.get('outcome')} by {g.get('reason')}", file=sys.stderr)
+
+if __name__ == "__main__":
+    play_all()
